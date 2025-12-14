@@ -11,9 +11,10 @@ spark-submit Piyush_PySpark_ETL_assignment_week4.py
 
 ## Project Structure
 ```
-Pythonn/
+blendweek4allstar/
 ├── Piyush_PySpark_ETL_assignment_week4.py          
 ├── sales.csv               # Input data file
 ├── readme.md              # This file
 └── output/                # Output directory with results
 ```
+
